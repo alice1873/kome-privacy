@@ -1,0 +1,2 @@
+# kome-privacy
+privacy
